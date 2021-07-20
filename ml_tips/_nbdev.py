@@ -8,6 +8,6 @@ modules = []
 
 doc_url = "https://pages.github.com/ml_tips/"
 
-git_url = "n"
+git_url = "https://shubhangi-tandon.github.io/ml_tips/"
 
 def custom_doc_links(name): return None
