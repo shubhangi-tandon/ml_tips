@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: ML TIPS
       url: core.html
     output: web
     title: ml_tips
