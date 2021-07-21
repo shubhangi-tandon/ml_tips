@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: ML TIPS
+      title: Increase your Productivity
       url: core.html
     output: web
     title: ml_tips
